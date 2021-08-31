@@ -1,0 +1,8 @@
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\bin\Debug\Negocioo.dll
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\bin\Debug\Negocioo.pdb
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\obj\Debug\Negocioo.dll
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\obj\Debug\Negocioo.pdb
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\obj\Debug\Negocioo.csprojAssemblyReference.cache
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\bin\Debug\AccesoDatos.dll
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\bin\Debug\AccesoDatos.pdb
+C:\Users\ytaborda\source\repos\PruebasUnitarioasPractica\Negocioo\obj\Debug\Negocioo.csproj.CopyComplete
